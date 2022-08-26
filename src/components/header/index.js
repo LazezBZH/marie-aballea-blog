@@ -11,9 +11,9 @@ const Header = () => (
       <Link activeClassName={style.active} href="/blogs">
         Blogs
       </Link>
-      <Link activeClassName={style.active} href="/contact">
+      {/* <Link activeClassName={style.active} href="/contact">
         Contact me
-      </Link>
+      </Link> */}
     </nav>
   </header>
 );

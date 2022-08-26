@@ -1,7 +1,7 @@
 import { h } from "preact";
 import { useEffect } from "preact/hooks";
 import style from "./style";
-import aboutme from "../../assets/aboutme.jpg";
+import logo from "../../assets/logo@2x.png";
 
 const Home = () => {
   /**
@@ -27,7 +27,7 @@ const Home = () => {
       <div class={style.about}>
         <div class={style.imageContainer}>
           <div class={style.image}>
-            <img src={aboutme} alt="aboutme" />
+            <img src={logo} alt="logo" />
           </div>
         </div>
         <div class={style.quote}>
