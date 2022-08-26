@@ -26,9 +26,7 @@ const Home = () => {
     <div class={style.home}>
       <div class={style.about}>
         <div class={style.imageContainer}>
-          <div class={style.image}>
-            <img src={logo} alt="logo" />
-          </div>
+          <img src={logo} alt="logo" />
         </div>
         <div class={style.quote}>
           <div class={style.details}>
