@@ -6,7 +6,7 @@ subtitle: If you have ever built an application which needs to take a screenshot
 cover: /assets/france.jpg
 tags: technology, javascript
 ---
-<!--StartFragment-->
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sodales neque sodales ut etiam sit amet nisl purus in. Nunc sed augue lacus viverra vitae congue eu. At augue eget arcu dictum varius. Et ligula ullamcorper malesuada proin. Aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis. Mauris in aliquam sem fringilla ut morbi tincidunt. In vitae turpis massa sed elementum tempus egestas. Neque gravida in fermentum et sollicitudin ac orci phasellus. Nibh praesent tristique magna sit amet purus gravida. Nibh sed pulvinar proin gravida hendrerit. Nibh tortor id aliquet lectus proin nibh nisl condimentum id. A iaculis at erat pellentesque adipiscing commodo elit at. At varius vel pharetra vel turpis nunc eget lorem. Ultrices in iaculis nunc sed augue. Senectus et netus et malesuada fames ac turpis egestas.
 
@@ -17,5 +17,3 @@ Quis enim lobortis scelerisque fermentum dui faucibus. Pulvinar sapien et ligula
 Morbi tempus iaculis urna id volutpat lacus. Sit amet venenatis urna cursus eget nunc scelerisque viverra. Amet risus nullam eget felis. Sit amet purus gravida quis blandit. Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Ut lectus arcu bibendum at varius vel pharetra vel turpis. Scelerisque viverra mauris in aliquam sem fringilla ut. Fringilla urna porttitor rhoncus dolor purus. Id velit ut tortor pretium viverra suspendisse potenti nullam. Dignissim convallis aenean et tortor at risus viverra adipiscing at. Donec enim diam vulputate ut. Mauris a diam maecenas sed enim ut sem.
 
 Fames ac turpis egestas integer eget aliquet nibh praesent. Magna fringilla urna porttitor rhoncus dolor. Mauris commodo quis imperdiet massa tincidunt nunc. Enim sed faucibus turpis in eu mi bibendum. Bibendum enim facilisis gravida neque convallis. Proin fermentum leo vel orci. Id velit ut tortor pretium viverra suspendisse potenti nullam ac. Nunc consequat interdum varius sit amet mattis vulputate enim nulla. Ac felis donec et odio. Mauris a diam maecenas sed enim ut sem viverra aliquet. Sollicitudin nibh sit amet commodo nulla facilisi.
-
-<!--EndFragment-->
