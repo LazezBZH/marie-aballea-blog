@@ -1,7 +1,6 @@
 import { h } from "preact";
 import { useEffect } from "preact/hooks";
 import style from "./style";
-import aboutme from "../../assets/aboutme.jpg";
 
 const Home = () => {
   /**
@@ -26,22 +25,18 @@ const Home = () => {
     <div class={style.home}>
       <div class={style.about}>
         <div class={style.imageContainer}>
-          <div class={style.image}>
-            <img src={aboutme} alt="aboutme" />
-          </div>
+          <div class={style.image} />
         </div>
         <div class={style.quote}>
           <div class={style.details}>
-            Après avoir proposé durant de nombreuses années des séances de
-            sophorlogie et Reiki en Bretagne, à Saint Méen le grand, Montauban
-            de Bretagne et Saint Malo, je vis maintenant en Irlande mais
-            continue cependant à accompagner mes clients en langue française via
-            Skype.
+            Jane presents traditional spanish art with a modern twist. Her work
+            is excellent quality, her technique is brilliant and her love of the
+            subject matter shines through.
           </div>
-          <div class={style.author}>- Découvrez ici mes articles de blog</div>
+          <div class={style.author}>- The Local Newspaper</div>
         </div>
       </div>
-      {/* <div class={style.bio}>
+      <div class={style.bio}>
         <p class={style.bioleft}>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
@@ -60,7 +55,7 @@ const Home = () => {
           qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui
           dolorem ipsum quia dolor sit amet, consectetur.
         </p>
-      </div> */}
+      </div>
     </div>
   );
 };
